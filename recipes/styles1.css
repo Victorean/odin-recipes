@@ -1,0 +1,9 @@
+img {
+    width: 300px;
+    height: auto;
+}
+h1,h2{
+    color: blueviolet;
+    background: lightsalmon;
+    text-align: center;
+}
